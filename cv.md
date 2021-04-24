@@ -4,5 +4,5 @@
 3. I want to learn IOS development
 4. Technologies that interest me: swift, metal, avfoundation
 5. I study independently for 1 month
-6. Higher medical educatio
+6. Higher medical education
 7. I study English on my own for 6 months
